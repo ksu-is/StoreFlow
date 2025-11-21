@@ -2,10 +2,10 @@ class Order:
     """
     A simple class to represent a single customer order.
     """
-    def __init__(self, order_id, customer_name, items=None):
+    def __init__(self, order_id, customer_name, order_items=None):
         self.order_id = order_id
         self.customer_name = customer_name
-        self.items = items if items is not None else []
+        self.items = order_items if order_items is not None else []
         self.is_paid = False
 
     def add_item(self, item_name, quantity, unit_price):
