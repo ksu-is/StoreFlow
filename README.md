@@ -6,7 +6,8 @@ Made projectroadmap file
 # StoreFlow – Interactive Retail Pick Coach
 
 StoreFlow is a simple Python-based tool designed to help workers in **retail stores**, **gig shopping services** (like Instacart or Shipt), and **campus markets** complete customer pick lists faster and with fewer mistakes.
-Made final plan and finsihed up coding
+Made final plan and finsihed up coding on IDLE and pasted/transferred to github file.
+
 Made powerpoint for presentation and overall basis of the project
 ## Features
 
@@ -37,5 +38,4 @@ Made powerpoint for presentation and overall basis of the project
 
 1. The worker runs the program:
 
-   ```bash
-   python storeflow.py
+
